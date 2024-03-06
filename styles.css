@@ -1,0 +1,41 @@
+body{
+    background-image: url("./images/bg2.jpg");
+    background-size: cover;
+}
+
+#title{
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    font-size: 60pt;
+    background-color: rgba(199,199,199, 30%);
+    
+}
+
+.recipe{
+    text-align: center;
+    font-size: 40px;
+    padding: 0.5cm;
+    background-color: rgba(199,199,199, 30%);
+    text-align: center;
+    list-style: none;
+}
+
+#ingredients{
+    text-align: center;
+    background-color: rgba(199,199,199, 30%);
+    list-style: none;
+    color: white;
+    font-weight: 600;
+}
+
+#rdesc{
+    background-color: rgba(0,40,100, 30%);
+    color: white;
+    text-align: center;
+}
+
+.centerimage {
+    display: flex;
+    justify-content: center;
+}
